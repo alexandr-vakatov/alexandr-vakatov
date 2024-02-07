@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexandr Vakatov
 - 👀 I’m interested in programming and engineering
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 
 
 
